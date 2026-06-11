@@ -13,7 +13,7 @@ Here is the index of all articles and projects, organized by technology categori
 ### 🟧 What's New in Swift
 | # | Article | Code | Topic |
 |---|---|---|---|
-
+| 1 | [Swift 6.4 Just Eliminated a Hidden Performance Cost](https://medium.com/icommunity/swift-6-4-just-eliminated-a-hidden-performance-cost-1e5692708690) | [`Swift/BorrowMutate`](./Swift/BorrowMutate) | get/set vs borrow/mutate |
 
 ---
 
