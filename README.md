@@ -14,6 +14,8 @@ Here is the index of all articles and projects, organized by technology categori
 | # | Article | Code | Topic |
 |---|---|---|---|
 | 1 | [Swift 6.4 Just Eliminated a Hidden Performance Cost](https://medium.com/icommunity/swift-6-4-just-eliminated-a-hidden-performance-cost-1e5692708690) | [`Swift/BorrowMutate`](./Swift/BorrowMutate) | get/set vs borrow/mutate |
+| 2 | [A First Look at Ref and MutableRef in Swift 6.4](https://medium.com/icommunity/a-first-look-at-ref-and-mutableref-in-swift-6-4-2da685d868a7) | — | Ref & MutableRef | 
+| 3 | [WWDC26: Iterable — Solving the Sequence Problem](https://medium.com/icommunity/wwdc26-iterable-solving-the-sequence-problem-042fe98a5c2f) | — | Iterable Protocol |
 
 ---
 
